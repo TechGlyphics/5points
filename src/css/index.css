@@ -1,0 +1,16 @@
+.gridContainer {
+    display: flex;
+    flex: 1 0 auto;
+    border: solid 1px black;
+    margin: 10px;
+}
+
+.gridTable {
+    height: 100%;
+    width: 100%;
+
+}
+
+.gridTable td {
+    border: solid 1px black;
+}

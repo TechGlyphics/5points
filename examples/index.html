@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../src/css/index.css" />
+    <script type="application/javascript" src="../dist/test.js"></script>
+    <title>Data Grid Examples</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+        #dataGrid {
+            display: flex;
+            flex: 1 0 auto;
+            border: solid 1px black;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="dataGrid"></div>
+    <script>
+        (function() {
+            var datagridContainer = document.getElementById('dataGrid');
+            var datagrid = new test.grid(datagridContainer, null);
+        })();
+    </script>
+</body>
+</html>

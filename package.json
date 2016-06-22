@@ -1,0 +1,27 @@
+{
+  "name": "5points",
+  "version": "0.1.0",
+  "description": "HTML5 open-source datagrid.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechGlyphics/5points.git"
+  },
+  "keywords": [
+    "datagrid",
+    "javascript",
+    "html5"
+  ],
+  "author": "TechGlyphics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechGlyphics/5points/issues"
+  },
+  "homepage": "https://github.com/TechGlyphics/5points#readme",
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  }
+}

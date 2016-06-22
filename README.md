@@ -8,6 +8,7 @@ This is the datagrid the community has needed for a very a long time. This will 
   <li><a href="https://handsontable.com/" target="_blank">Handsontable</a></li>
   <li><a href="https://github.com/mleibman/SlickGrid" target="_blank">Slickgrid</a></li>
   <li><a href="http://docs.sencha.com/extjs/6.2.0-modern/guides/components/grids.html" target="_blank">Sencha ExtJS Datagrid</a></li>
+  <li><a href="https://vaadin.com/elements/-/element/vaadin-grid" target="_blank">Vaadin Grid</a></li>
 </ul>
 
 The most important aspects of this project are:
